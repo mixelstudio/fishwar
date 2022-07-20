@@ -3,7 +3,7 @@ Fish War !
 
 A simple game where the goal is too eat as much fish as you can, while avoiding the jellyfish.
 
-Play it [here](http://obiot.github.io/fishwar/)
+Play it [here](http://mixelstudio.github.io/fishwar/)
 
 Credits
 --------
